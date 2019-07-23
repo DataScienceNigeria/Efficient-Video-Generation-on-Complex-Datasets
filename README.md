@@ -4,7 +4,7 @@ Artificial Intelligence can generate realistic videos by learning from YouTube c
 
 Video synthesis and modeling with Dual Video Discriminator GAN (DVD-GAN) 
 scales to longer and higher resolution videos by leveraging a computationally efficient decomposition of its discriminator.
-![architecture(http://https://www.facebook.com/photo.php?fbid=509524176480362&set=pcb.509524249813688&type=3&theater)
+![architecture(video1.jpg)
 
 It can generate coherent 256 x 256-pixel videos of “notable fidelity” up to 48 frames in length.
 
